@@ -1,0 +1,9 @@
+{
+    "channels": [
+        {
+            "name": "Dazn 1",
+            "mpd_url": "https://dce-de-livedazn.daznedge.net/dash/dazn-linear-024/stream.mpd?p=web",
+            "clear_key": "8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769"
+        }
+    ]
+}
