@@ -4,7 +4,7 @@
         "id": "1",
         "name": "Live Stream 1",
         "mpd_url": "https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd",
-        "license_key": "003663ddf1acb25ea88a7cf973afc0d5:35ea91b4151d6975007998c328daee6c"
+        "license_key": "003663ddf1acb25ea88a7cf973afc0d5:35ea91b4151d6975007998c328daee6c",
         "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sky_Sport_24_-_Logo_2012.svg/512px-Sky_Sport_24_-_Logo_2012.svg.png"
     }
     ]
