@@ -1,6 +1,7 @@
 {
-    "channels": [
+    "live_tv": [
     {
+        "id": "1",
         "name": "Live Stream 1",
         "url": "https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd",
         "key": "35ea91b4151d6975007998c328daee6c",
