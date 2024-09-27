@@ -2,10 +2,10 @@
     "channels": [
     {
         "name": "Live Stream 1",
-        "url": "https://dce-de-livedazn.daznedge.net/dash/dazn-linear-024/stream.mpd?p=web",
-        "key": "7ab4b9ae5a48aa526e511a913b832769",
-        "keyid": "8ab47741930c476780515f9a00decb0a",
-        "poster": "https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png"
+        "url": "https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd",
+        "key": "35ea91b4151d6975007998c328daee6c",
+        "keyid": "003663ddf1acb25ea88a7cf973afc0d5",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sky_Sport_24_-_Logo_2012.svg/512px-Sky_Sport_24_-_Logo_2012.svg.png"
     }
     ]
 }
