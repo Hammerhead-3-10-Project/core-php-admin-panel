@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.streamingcommunity.buzz/images/c3eda48a-f1fe-4d08-b18f-1023dd4eef88.webp" group-title="Azione", Cintura nera Jeong-do
-https://vixcloud.co/playlist/260326?b=1?token=d9f534d7c98f63e13362c8e57ec23d02&expires=1731854693
-
-#EXTINF:-1 tvg-logo="https://cdn.streamingcommunity.buzz/images/02486d35-9bfb-4743-9bb9-8d0563c2faa0.webp" group-title="Azione", CIA - Un uomo nel mirino
-https://vixcloud.co/playlist/260099?b=1?token=bc2cded4bfd2f47b3226073ee9017373&expires=1731854695
-
-#EXTINF:-1 tvg-logo="https://cdn.streamingcommunity.buzz/images/ed4adfa1-02dc-4fae-844b-ba100d80eafa.webp" group-title="Azione", The Crow - Il corvo
-https://vixcloud.co/playlist/258466?b=1?token=89bb053664e7d6912f91cc90163e6b30&expires=1731854696
-
-#EXTINF:-1 tvg-logo="https://cdn.streamingcommunity.buzz/images/8faf0ff3-3c37-4d83-82f5-97e0b0419e77.webp" group-title="Azione", Hounds of War
-https://vixcloud.co/playlist/261214?b=1?token=7f34c89140cf17b4668ee8c039b341af&expires=1731854698
-
-#EXTINF:-1 tvg-logo="https://cdn.streamingcommunity.buzz/images/7790ff7b-d72f-4c08-be39-cc02bf1bcf72.webp" group-title="Azione", Rebel Ridge
-https://vixcloud.co/playlist/259191?b=1?token=51fdaa1cedfda26016e6343c9c8cbb42&expires=1731854700
-
-#EXTINF:-1 tvg-logo="https://cdn.streamingcommunity.buzz/images/d3a77d16-b681-4079-9fd9-b45136c88615.webp" group-title="Azione", Falla girare 2 - Offline
-https://vixcloud.co/playlist/257226?b=1?token=9f2fb6b067866d15be834432643ac8c4&expires=1731854702
+#EXTINF:-1,Sky Cinema UNO
+#EXTVLCOPT:http-referrer=https://quest4play.xyz/
+#EXTVLCOPT:http-origin=https://quest4play.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium860/index.m3u8
