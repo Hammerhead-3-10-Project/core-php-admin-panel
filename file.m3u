@@ -1,6 +1,6 @@
 #EXTM3U player-buffer="15"
 
-#EXTINF:-1 staff-id="Dazn1" tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="DAZN",Dazn 1 (IT)
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="DAZN",Dazn 1 (IT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
