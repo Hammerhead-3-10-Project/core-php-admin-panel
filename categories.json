@@ -1,0 +1,12 @@
+{
+    "film": {
+        "Azione": "https://example.com/azione_films.m3u",
+        "Animazione": "https://example.com/animazione_films.m3u",
+        "Horror": "https://example.com/horror_films.m3u"
+    },
+    "serie_tv": {
+        "Drammatico": "https://example.com/drama_series.m3u",
+        "Thriller": "https://example.com/thriller_series.m3u",
+        "Commedia": "https://example.com/comedy_series.m3u"
+    }
+}
