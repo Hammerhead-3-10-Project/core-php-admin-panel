@@ -1,13 +1,16 @@
 {
-    "film": {
-        "Azione": "https://raw.githubusercontent.com/Hammerhead-3-10-Project/core-php-admin-panel/refs/heads/master/azione_films.m3u",
-        "Animazione": "https://example.com/animazione_films.m3u",
-        "Horror": "https://example.com/horror_films.m3u"
-    },
-    "serie_tv": {
-        "Drammatico": "https://example.com/drama_series.m3u",
-        "Thriller": "https://example.com/thriller_series.m3u",
-        "Commedia": "https://example.com/comedy_series.m3u"
-    },
-    "live_tv": "https://raw.githubusercontent.com/Hammerhead-3-10-Project/core-php-admin-panel/refs/heads/master/file.m3u"
+    "categories": [
+        {
+            "name": "Live TV",
+            "m3u_url": "https://raw.githubusercontent.com/Hammerhead-3-10-Project/core-php-admin-panel/refs/heads/master/file.m3u"
+        },
+        {
+            "name": "Film",
+            "m3u_url": "https://raw.githubusercontent.com/Hammerhead-3-10-Project/core-php-admin-panel/refs/heads/master/azione_films.m3u"
+        },
+        {
+            "name": "Serie TV",
+            "m3u_url": "https://example.com/path/to/serie_tv.m3u"
+        }
+    ]
 }
