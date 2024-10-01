@@ -11,6 +11,6 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Italian [Forced]",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="forced-ita",URI="https://vixcloud.co/playlist/260326?type=subtitle&rendition=10-forced-ita&token=fOeDFXWh02R0Vjru_zDlmw&expires=1731854693&b=1"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Italian",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="ita",URI="https://vixcloud.co/playlist/260326?type=subtitle&rendition=11-ita&token=fOeDFXWh02R0Vjru_zDlmw&expires=1731854693&b=1"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Ukrainian",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="ukr",URI="https://vixcloud.co/playlist/260326?type=subtitle&rendition=12-ukr&token=fOeDFXWh02R0Vjru_zDlmw&expires=1731854693&b=1"
-#EXTINF:-1 player-buffer='15' tvg-logo="https://cdn.streamingcommunity.buzz/images/c3eda48a-f1fe-4d08-b18f-1023dd4eef88.webp" group-title="Azione", Cintura nera Jeong-do
 #EXT-X-STREAM-INF:BANDWIDTH=2150000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1280x720,AUDIO="audio",SUBTITLES="subs"
+#EXTINF:-1 player-buffer='15' tvg-logo="https://cdn.streamingcommunity.buzz/images/c3eda48a-f1fe-4d08-b18f-1023dd4eef88.webp" group-title="Azione", Cintura nera Jeong-do
 https://vixcloud.co/playlist/260326?type=video&rendition=720p&token=2U__YZ0rbQSokG6x5l4kJw&expires=1731854693&b=1
