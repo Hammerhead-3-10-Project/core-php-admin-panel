@@ -2,11 +2,11 @@
     {
         "username": "master",
         "password": "master",
-        "expiry_date": "2024-10-10T12:00:00"
+        "expiry_date": "2024-12-31"
     },
     {
-        "username": "user1",
-        "password": "user1",
-        "expiry_date": "2024-10-05T12:14:00"
+        "username": "user2",
+        "password": "user2",
+        "expiry_date": "2024-10-04"
     }
 ]
